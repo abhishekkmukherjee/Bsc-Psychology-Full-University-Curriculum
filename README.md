@@ -18,8 +18,16 @@
 
 
 
-## Description:
-Back in my second year of college, I got really into psychology. Instead of going back to school, I wanted to learn it on my own. I tried finding a simple guide like they have for computer science but couldn't. So, I'm making a free, easy-to-follow plan for a three-year BSc in Psychology. I'll gather materials from all around the internet and share them with everyone who wants to learn, without making it complicated.
+## Introduction: ##
+Hello and welcome to the Open Knowledge University's Psychology Course! This repository is a labor of love born from the pursuit of knowledge and a passion for making quality education accessible to all. If you're here, you likely share the curiosity and enthusiasm for psychology that led me to embark on this journey.
+
+## Background: ##
+During my time in college, studying for an honors degree in accounts, I discovered a deep interest in psychology, particularly neuroscience. Unfortunately, time constraints prevented me from pursuing formal studies in psychology at another university. Undeterred, I scoured the internet for high-quality psychology resources that were freely available. Lucky for me, I found some excellent materials that ignited my learning journey.
+
+## The Initiative: ##
+This repository is more than just a collection of resources; it's an initiative to empower individuals with a genuine interest in psychology. I am in the process of compiling resources that cover the entire three-year BSc degree curriculum. While I haven't gathered everything yet, I invite you to join me on this educational adventure.
+
+
 
 ## Project Goals:
 
@@ -59,9 +67,7 @@ Share your own stuff or suggest good things to add.
 
 Talk with others to make the guide better.
 
-** Note: **
 
-This is just a project made by regular people, not by any university. The goal is to help everyone learn psychology without needing a lot of money. Everyone is welcome to join!
 
 **Courses must**:
 - Be open for enrollment
@@ -85,6 +91,10 @@ Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Respect the code of conduct* that you signed in the beginning of each course!
+
+ **Note**.
+ This repository serves as a supplementary tool for those who may not currently have access to formal education but are passionate about psychology. It is not a replacement for a recognized degree. Approach your educational journey with a holistic perspective, considering all available avenues for growth and learning.
+
 
 
 # Community
