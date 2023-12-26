@@ -22,7 +22,7 @@
 Hello and welcome to the Open Knowledge University's Psychology Course! This repository is a labor of love born from the pursuit of knowledge and a passion for making quality education accessible to all. If you're here, you likely share the curiosity and enthusiasm for psychology that led me to embark on this journey.
 
 ## Background: ##
-During my time in college, studying for an honors degree in accounts, I discovered a deep interest in psychology, particularly neuroscience. Unfortunately, time constraints prevented me from pursuing formal studies in psychology at another university. Undeterred, I scoured the internet for high-quality psychology resources that were freely available. Lucky for me, I found some excellent materials that ignited my learning journey.
+During my time in college, studying for an honors degree in accounts, I discovered a deep interest in psychology. Unfortunately, time constraints prevented me from pursuing formal studies in psychology at another university. Undeterred, I scoured the internet for high-quality psychology resources that were freely available. Lucky for me, I found some excellent materials that ignited my learning journey.
 
 ## The Initiative: ##
 This repository is more than just a collection of resources; it's an initiative to empower individuals with a genuine interest in psychology. I am in the process of compiling resources that cover the entire three-year BSc degree curriculum. While I haven't gathered everything yet, I invite you to join me on this educational adventure.
