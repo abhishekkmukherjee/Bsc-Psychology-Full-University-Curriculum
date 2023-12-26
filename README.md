@@ -1,4 +1,4 @@
-# Bsc-Psychology-Full-University-Curriculum
+# Open Knowledge Univerity- Bsc-Psychology-Full-University-Curriculum
 
 
 
