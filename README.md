@@ -127,8 +127,8 @@ Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-101: Introduction to Psychology
-](https://egyankosh.ac.in/bitstream/123456789/62911/1/Unit-1.pdf) | 10 weeks | 10 hours/week | none | [chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)
+[PSY-101 Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) or [(textbook-MIT)](https://ocw.mit.edu/ans7870/9/9.00SC/MIT9_00SCF11_text.pdf) (or: [textbook-egyankosh](https://egyankosh.ac.in/bitstream/123456789/62911/1/Unit-1.pdf) )|  10 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[General Psychology- GALILEO, University System of Georgia](https://oer.galileo.usg.edu/cgi/viewcontent.cgi?article=1000&context=psychology-textbooks) or (http://elibrary.bsu.edu.az/files/books_400/N_264.pdf)|  10 weeks | 10 hours/week | PSY-101 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
