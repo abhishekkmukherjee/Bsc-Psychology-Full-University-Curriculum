@@ -135,6 +135,37 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 
+
+## Second  Semester
+
+
+
+
+
+
+
+**Topics covered**:
+`
+1.2 Definition of Psychology
+1.3 Psychology as a Science
+1.4 Origin and Development of Psychology
+1.5 Subfields of Psychology
+1.6 Research in Psychology
+1.7 Methods of Research in Psychology
+1.7.1 Descriptive Method
+1.7.2 Experimental Method
+1.7.3 Correlation Method
+1.7.4 General Psychology
+1.7.5 Biological Bases
+of Behavior 
+
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or [(textbook)](https://backup.pondiuni.edu.in/sites/default/files/downloads/UG-App-Psychology270612.pdf) (or: [textbook](https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+
+
+
 ## How to show your progress
 
 1. Start the Course.
