@@ -162,7 +162,7 @@ of Behavior
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or [(textbook)](https://backup.pondiuni.edu.in/sites/default/files/downloads/UG-App-Psychology270612.pdf) (or: [textbook](https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or [(textbook)]( [textbook](https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
