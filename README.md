@@ -164,7 +164,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or ( textbook)(https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-201 Social Psychology](https://drgetafix.com/wp-content/uploads/2019/07/Physiological-Psychology-Morgan-and-Stellar-2nd-Edition.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-403 Psychological Test Administration](https://ep.gdufs.edu.cn/__local/9/3C/79/DFCE06C0AB3CBD688B102121350_6EC25E4B_A48936.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-203 Experimental Psychology ](https://ep.gdufs.edu.cn/__local/9/3C/79/DFCE06C0AB3CBD688B102121350_6EC25E4B_A48936.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
