@@ -171,7 +171,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 
-## Second  Semester
+## Third  Semester
 
 
 
