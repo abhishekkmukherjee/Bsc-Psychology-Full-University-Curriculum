@@ -162,8 +162,8 @@ of Behavior
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or ( textbook)(https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-201 Social Psychology](https://drgetafix.com/wp-content/uploads/2019/07/Physiological-Psychology-Morgan-and-Stellar-2nd-Edition.pdf)  |  8 weeks | 10 hours/week | Nothing |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-201 Social Psychology](https://www.coursera.org/learn/social-psychology) or ( textbook)(https://opentextbc.ca/socialpsychology/) |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-201 Social Psychology](https://drgetafix.com/wp-content/uploads/2019/07/Physiological-Psychology-Morgan-and-Stellar-2nd-Edition.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
@@ -179,5 +179,5 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 # Team
 
-*Abhishek Mukherjee **[https://github.com/abhishekkmukherjee)**: founder of OKU
+*Abhishek Mukherjee **[https://github.com/abhishekkmukherjee)**
 
