@@ -198,7 +198,38 @@ of Behavior
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-201 Social Behaviour](https://archive.mu.ac.in/myweb_test/SYBA%20Study%20Material/socpsycho-II.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-201 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-203 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+
+
+## Third  Semester
+
+
+
+
+
+
+
+**Topics covered**:
+`
+1.2 Definition of Psychology
+1.3 Psychology as a Science
+1.4 Origin and Development of Psychology
+1.5 Subfields of Psychology
+1.6 Research in Psychology
+1.7 Methods of Research in Psychology
+1.7.1 Descriptive Method
+1.7.2 Experimental Method
+1.7.3 Correlation Method
+1.7.4 General Psychology
+1.7.5 Biological Bases
+of Behavior 
+
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-201 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-203 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
