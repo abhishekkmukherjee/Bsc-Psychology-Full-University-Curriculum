@@ -234,6 +234,39 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 
+## Fifth  Semester
+
+
+
+
+
+
+
+**Topics covered**:
+`
+1.2 Definition of Psychology
+1.3 Psychology as a Science
+1.4 Origin and Development of Psychology
+1.5 Subfields of Psychology
+1.6 Research in Psychology
+1.7 Methods of Research in Psychology
+1.7.1 Descriptive Method
+1.7.2 Experimental Method
+1.7.3 Correlation Method
+1.7.4 General Psychology
+1.7.5 Biological Bases
+of Behavior 
+
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[PSY-501 Psychopathology](https://students.aiu.edu/submissions/profiles/resources/onlineBook/J8x9T7_Psychopathology_Foundations_4th.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-402 Psychological Statistics](https://open.umn.edu/opentextbooks/textbooks/709)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-403 Psychological Test Administration ](https://perpus.univpancasila.ac.id/repository/EBUPT181396.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+
+
+
+
 
 
 ## How to show your progress
