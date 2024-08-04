@@ -199,7 +199,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-201 Social Psychology](https://archive.mu.ac.in/myweb_test/SYBA%20Study%20Material/socpsycho-II.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-203 Experimental Psychology ](https://ep.gdufs.edu.cn/__local/9/3C/79/DFCE06C0AB3CBD688B102121350_6EC25E4B_A48936.pdf)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-203 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
