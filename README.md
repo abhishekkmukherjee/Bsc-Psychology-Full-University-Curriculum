@@ -260,9 +260,10 @@ of Behavior
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-501 Psychopathology](https://students.aiu.edu/submissions/profiles/resources/onlineBook/J8x9T7_Psychopathology_Foundations_4th.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-502 Organisational Behaviour](https://old.mu.ac.in/wp-content/uploads/2014/04/Management-PAPER-II-Organizational-Behavior-final-book.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-503 Educational Psychology ](https://mkuniversity.ac.in/new/centre/cer/docs/PSYCHOLOGY%20IN%20EDUCATION.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-501 Psychopathology](https://students.aiu.edu/submissions/profiles/resources/onlineBook/J8x9T7_Psychopathology_Foundations_4th.pdf)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-502 Organisational Behaviour](https://old.mu.ac.in/wp-content/uploads/2014/04/Management-PAPER-II-Organizational-Behavior-final-book.pdf)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-503 Educational Psychology  ](https://mkuniversity.ac.in/new/centre/cer/docs/PSYCHOLOGY%20IN%20EDUCATION.pdf)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-504 Psychological Research  ](https://www.opentextbooks.org.hk/system/files/export/35/35300/pdf/Research_Methods_In_Psychology_35300.pdf)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
