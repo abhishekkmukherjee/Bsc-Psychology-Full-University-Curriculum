@@ -268,6 +268,39 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 
+## Sixth  Semester
+
+
+
+
+
+
+
+**Topics covered**:
+`
+1.2 Definition of Psychology
+1.3 Psychology as a Science
+1.4 Origin and Development of Psychology
+1.5 Subfields of Psychology
+1.6 Research in Psychology
+1.7 Methods of Research in Psychology
+1.7.1 Descriptive Method
+1.7.2 Experimental Method
+1.7.3 Correlation Method
+1.7.4 General Psychology
+1.7.5 Biological Bases
+of Behavior 
+
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[PSY-601 Abnormal Psychology ](https://perpus.univpancasila.ac.id/repository/EBUPT190107.pdf)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-602 Human Resource Development ](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4276/1/Human%20Resource%20Development.pdf)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-603 Counselling Psychology    ](https://onlinecourses.swayam2.ac.in/cec22_hs29/preview)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-604 Psychology and Social Issues ](https://www.encyclopedia.com/caregiving/encyclopedias-almanacs-transcripts-and-maps/psychological-and-social-issues)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+
+
+
 
 
 ## How to show your progress
