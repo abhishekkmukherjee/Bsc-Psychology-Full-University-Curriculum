@@ -197,8 +197,8 @@ of Behavior
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-302 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-302 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-303 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
@@ -296,7 +296,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-601 Abnormal Psychology ](https://perpus.univpancasila.ac.id/repository/EBUPT190107.pdf)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-602 Human Resource Development ](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4276/1/Human%20Resource%20Development.pdf)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-603 Counselling Psychology    ](https://onlinecourses.swayam2.ac.in/cec22_hs29/preview)  |  8 weeks | 10 hours/week | Sem 4 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-603 Counselling Psychology    ](https://onlinecourses.swayam2.ac.in/cec22_hs29/preview)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 [PSY-604 Psychology and Social Issues ](https://www.encyclopedia.com/caregiving/encyclopedias-almanacs-transcripts-and-maps/psychological-and-social-issues)  |  8 weeks | 10 hours/week | Sem 5 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
