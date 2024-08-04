@@ -261,8 +261,8 @@ of Behavior
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-501 Psychopathology](https://students.aiu.edu/submissions/profiles/resources/onlineBook/J8x9T7_Psychopathology_Foundations_4th.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-402 Psychological Statistics](https://open.umn.edu/opentextbooks/textbooks/709)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-403 Psychological Test Administration ](https://perpus.univpancasila.ac.id/repository/EBUPT181396.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-502 Organisational Behaviour](https://old.mu.ac.in/wp-content/uploads/2014/04/Management-PAPER-II-Organizational-Behavior-final-book.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-503 Educational Psychology ](https://mkuniversity.ac.in/new/centre/cer/docs/PSYCHOLOGY%20IN%20EDUCATION.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
