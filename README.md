@@ -198,11 +198,11 @@ of Behavior
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-201 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-203 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-302 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-303 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
-## Third  Semester
+## Fourth  Semester
 
 
 
@@ -228,9 +228,9 @@ of Behavior
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[PSY-301 Human Development](https://pdx.pressbooks.pub/humandevelopment/front-matter/introduction/)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-201 Social Behaviour](https://alison.com/course/understanding-human-behaviour)  |  8 weeks | 10 hours/week | Sem 1 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
-[PSY-203 Elementary Statistics ](https://ugess3.wordpress.com/wp-content/uploads/2016/01/bluman-step-by-step-statistics-8th-edition.pdf)  |  8 weeks | 10 hours/week | Sem 2 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-401 Developmental Psychology](https://archive.org/details/dli.scoerat.2412developmentalpsychologyfourthedition/mode/2up)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-402 Psychological Statistics](https://open.umn.edu/opentextbooks/textbooks/709)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
+[PSY-403 Psychological Test Administration ](https://perpus.univpancasila.ac.id/repository/EBUPT181396.pdf)  |  8 weeks | 10 hours/week | Sem 3 |[chat](https://chat.whatsapp.com/CGlr7MJikLqK8vtyJxY84d)|
 
 
 
